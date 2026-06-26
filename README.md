@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-melodie-pour-deux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Une Mélodie Pour Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-melodie-pour-deux/) |
+| **Get License** | [Secure Licensing Rights for Une Mélodie Pour Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-melodie-pour-deux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a73ca9f9dba27a521e83b73165ccf973b1afcfa82e988ba808d926fc7911b751` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
