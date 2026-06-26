@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-melodie-pour-deux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Une Mélodie Pour Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-melodie-pour-deux/) |
+| **Get License** | [Official Music Licensing for Une Mélodie Pour Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-melodie-pour-deux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On se frôle dans le noir, tu connais la magie
+> Lumières de la ville, c'est notre seule galaxie
+> Prends ma main doucement, laisse la basse nous guider
+> C'est une mélodie pour deux qu'on ne peut plus oublier
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
